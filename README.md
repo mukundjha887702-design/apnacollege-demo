@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is m second git repository
+this is my second git repository
+Author - MUKUND KUMAR JHA 
